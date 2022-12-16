@@ -31,6 +31,7 @@ body{
     flex-direction: row;
     width: 50vw;
     max-width: 500px;
+    min-width: 320px;
     height: auto;
     background-color: rgba(0, 62, 41, 0.7);
     padding: 20px;
