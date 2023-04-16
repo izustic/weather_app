@@ -4,4 +4,4 @@ This is a weather app I made using RESTful API and utilizing key DOM functionali
 
 It fetches real time weather information from and API and populates the webpage with said information.
 
-The page is live at: https://www.izuweatherapp.netlify.app 
+The page is live at: https://izuweatherapp.netlify.app 
